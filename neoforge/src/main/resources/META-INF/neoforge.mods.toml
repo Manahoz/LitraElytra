@@ -27,5 +27,12 @@ versionRange = "[1.21.1,)"
 ordering = "NONE"
 side = "BOTH"
 
+[[dependencies.litra_elytra]]
+modId = "midnightlib"
+mandatory = true
+versionRange = "[1.9.3,)"
+ordering = "NONE"
+side = "BOTH"
+
 [[mixins]]
 config = "litra_elytra.mixins.json"

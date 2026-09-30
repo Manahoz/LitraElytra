@@ -16,10 +16,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.manahoz.litra_elytra.fabric.ExampleModFabric"
+      "net.manahoz.litra_elytra.fabric.LitraElytraFabric"
     ],
-    "client": [
-      "net.manahoz.litra_elytra.fabric.client.ExampleModFabricClient"
+    "modmenu": [
+      "net.manahoz.litra_elytra.fabric.LitraElytraModMenu"
     ]
   },
   "mixins": [
@@ -29,8 +29,5 @@
     "fabricloader": ">=0.19.5",
     "minecraft": "~1.21.1",
     "java": ">=21"
-  },
-  "suggests": {
-    "another-mod": "*"
   }
 }
