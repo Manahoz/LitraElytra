@@ -1,0 +1,14 @@
+{
+  "required": false,
+  "package": "net.manahoz.litra_elytra.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "client": [
+  ],
+  "mixins": [
+    "LitraElytraEndCityGeneratorMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/litra_elytra.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/litra_elytra.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/litra_elytra.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/litra_elytra.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/litra_elytra.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/litra_elytra.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/litra_elytra.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/litra_elytra.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/litra_elytra.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/litra_elytra.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/litra_elytra.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/litra_elytra.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/litra_elytra.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/litra_elytra.forge.test.iml" />
+    </modules>
+  </component>
+</project>
